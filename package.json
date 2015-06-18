@@ -1,0 +1,19 @@
+{
+  "name": "ed-js",
+  "version": "0.1.0",
+  "description": "ed text editor reimplementation in JavaScript",
+  "main": "ed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "ed-js": "ed.js"
+  },
+  "keywords": [
+    "editor",
+    "terminal",
+    "console"
+  ],
+  "author": "Andrey Lisin",
+  "license": "MIT"
+}
